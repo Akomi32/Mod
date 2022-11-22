@@ -1,0 +1,32 @@
+{
+  "nicecock": {
+    "category": "neutral",
+    "subtitle": "subtitles.nicecock",
+    "sounds": [
+      {
+        "name": "ae:nice-cock-wii-bowling",
+        "stream": false
+      }
+    ]
+  },
+  "czolk": {
+    "category": "neutral",
+    "subtitle": "subtitles.czolk",
+    "sounds": [
+      {
+        "name": "ae:choking-sound-effects-hd",
+        "stream": false
+      }
+    ]
+  },
+  "czolkmidadi": {
+    "category": "neutral",
+    "subtitle": "subtitles.czolkmidadi",
+    "sounds": [
+      {
+        "name": "ae:choke_me_daddy",
+        "stream": false
+      }
+    ]
+  }
+}

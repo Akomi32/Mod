@@ -1,0 +1,71 @@
+{
+  "mod_elements": [
+    {
+      "name": "Cock",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cock"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "nicecock",
+      "files": [
+        "nice-cock-wii-bowling"
+      ],
+      "category": "neutral",
+      "subtitle": "Nice Cock"
+    },
+    {
+      "name": "czolk",
+      "files": [
+        "choking-sound-effects-hd"
+      ],
+      "category": "neutral",
+      "subtitle": "Chocking"
+    },
+    {
+      "name": "czolkmidadi",
+      "files": [
+        "choke_me_daddy"
+      ],
+      "category": "neutral",
+      "subtitle": "OOF"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.czolkdady": "OOF",
+      "item.ae.cock_spawn_egg": "Cock Spawn Egg",
+      "subtitles.czolk": "Chocking",
+      "subtitles.nicecock": "COCk",
+      "subtitles.czolkmidadi": "OOF",
+      "entity.ae.cock": "Cock"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ae",
+    "modName": "ae",
+    "version": "1.0.0",
+    "author": "jakub, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.ae",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200346416
+}
